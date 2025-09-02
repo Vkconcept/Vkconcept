@@ -3,7 +3,7 @@ Frontend Developer | Tech Enthusiast | Coding Content Creator
 
 ![Coding GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-I love building interactive and user-focused websites using **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React**. I also create coding tutorials and challenges to inspire other developers.  
+I love building interactive and user-focused websites using **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React**.
 
 ---
 
