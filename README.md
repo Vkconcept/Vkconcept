@@ -17,7 +17,6 @@ I love building interactive and user-focused websites using **HTML, CSS, Bootstr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=spin)
 
 ---
-
 ## 📂 Featured Projects
 
 | Project | Description | Link |
@@ -31,8 +30,11 @@ I love building interactive and user-focused websites using **HTML, CSS, Bootstr
 | EduSphere | Educational platform for online courses | [GitHub](https://github.com/Vkconcept/EduSphere) |
 | Novara Foundation | Non-profit organization website | [GitHub](https://github.com/Vkconcept/NovaraFoundation) |
 | Form1 | Form builder application | [GitHub](https://github.com/Vkconcept/form1) |
+| FitHack | Fitness and workout tracking platform | [GitHub](https://github.com/Vkconcept/FitHack) |
+| GlowDent | Dental clinic website with booking system | [GitHub](https://github.com/Vkconcept/GlowDent) |
+| Veloura Jewels | Jewelry store website with product showcase | [GitHub](https://github.com/Vkconcept/Veloura-Jewels) |
+| Aureas Glow | Skincare and beauty products website | [GitHub](https://github.com/Vkconcept/Aureas-Glow) |
 
----
 
 ## 📊 GitHub Stats
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vkconcept&show_icons=true&theme=radical&count_private=true)
