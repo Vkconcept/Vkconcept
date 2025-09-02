@@ -3,7 +3,7 @@ Frontend Developer | Tech Enthusiast | Coding Content Creator
 
 ![Coding GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-I love building interactive and user-focused websites using **HTML, CSS, JavaScript, and React**. I also create coding tutorials and challenges to inspire other developers.  
+I love building interactive and user-focused websites using **HTML, CSS, JavaScript, and React**. 
 
 ---
 
@@ -22,6 +22,7 @@ I love building interactive and user-focused websites using **HTML, CSS, JavaScr
 | Naija Kitchen | Nigerian food menu website with filterable categories | [GitHub](https://github.com/vkconcept/naija-kitchen) |
 | Real Estate | Property listing website with responsive design | [GitHub](https://github.com/vkconcept/real-estate) |
 | Gym Site | Responsive landing page for a gym | [GitHub](https://github.com/Vkconcept/gym-site) |
+
 
 ---
 
